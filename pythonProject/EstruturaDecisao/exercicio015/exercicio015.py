@@ -23,4 +23,3 @@ elif lado_triangulo_2 == lado_triangulo_3 and lado_triangulo_2 != lado_triangulo
     print('É um Triangulo Isósceles')
 elif lado_triangulo_1 == lado_triangulo_3 and lado_triangulo_1 != lado_triangulo_2:
     print('É um Triangulo Isósceles')
-    
