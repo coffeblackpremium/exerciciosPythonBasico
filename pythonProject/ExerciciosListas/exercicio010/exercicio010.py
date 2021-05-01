@@ -4,5 +4,5 @@ vetor de 20 elementos, cujos valores deverão ser compostos pelos elementos inte
 """
 vetor_1 = [numero_vetor1 for numero_vetor1 in range(1, 10)]
 vetor_2 = [numero_vetor2 for numero_vetor2 in range(11, 21)]
-vetor3 = [ab for ab in zip(vetor_1, vetor_2)]
+vetor3 = [vetor_intercalado for ab in zip(vetor_1, vetor_2) for vetor_intercalado in ab]
 print(vetor3)
