@@ -3,3 +3,5 @@
 <p> Aqui deixarei meus Exercicios feitos no Site: https://wiki.python.org.br/ListaDeExercicios </p>
 <br>
 <a href="https://wiki.python.org.br/EstruturaSequencial" target="_top"> Estrutura Sequencial </a>
+<a href="https://wiki.python.org.br/EstruturaDeDecisao" target="_blank"> Estrutura de Decisão </a>
+<a href="https://wiki.python.org.br/EstruturaDeRepeticao" target="_blank"> Estrutura de Repetição </a>
