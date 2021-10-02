@@ -2,4 +2,4 @@
 <br>
 <p> Aqui deixarei meus Exercicios feitos no Site: https://wiki.python.org.br/ListaDeExercicios </p>
 <br>
-<a href="https://wiki.python.org.br/EstruturaSequencial" target="_self"> Estrutura Sequencial </a>
+<a href="https://wiki.python.org.br/EstruturaSequencial" target="_top"> Estrutura Sequencial </a>
