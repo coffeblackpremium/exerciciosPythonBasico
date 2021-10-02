@@ -1,9 +1,5 @@
-========= EXERCICIOS EM PYTHON WIKI ======
-
-Aqui deixarei armazenado alguns exercicios meus em Python Basico!
-
-Talvez no future eu venho aqui e altere
-
-
-========================
-Graham 11/04/2021
+<h1> Exercicios Resolvidos no Python Wiki BR </h1>
+<br>
+<p> Aqui deixarei meus Exercicios feitos no Site: https://wiki.python.org.br/ListaDeExercicios </p>
+<br>
+<a href="https://wiki.python.org.br/EstruturaSequencial" target="_blank"> Estrutura Sequencial </a>
